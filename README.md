@@ -15,6 +15,10 @@ Este curso é projetado para iniciantes em programação e análise de dados, fo
 - **Análise Exploratória de Dados:** Técnicas básicas de EDA (Análise Exploratória de Dados) para entender melhor os conjuntos de dados.
 - **Visualização de Dados:** Introdução às bibliotecas de visualização como Matplotlib e Seaborn para criar gráficos e entender tendências nos dados.
 
+## Atividades
+
+- **[Analisando distribuição de raça e gênero](https://docs.google.com/spreadsheets/d/14vfPH7nQcym3A9BLMTpunOl6baYIEkQW/edit?usp=sharing&ouid=112931707989297299271&rtpof=true&sd=true):** Nessa aula aprendemos a filtrar e agrupar dados🎲 funções muito importantes para que seja possível sintetizar e entender melhor nossos dados. 
+
 ## Projetos
 
 O curso inclui vários projetos práticos para aplicar o conhecimento adquirido. Os projetos abordam desde a limpeza de dados até a análise exploratória e visualização. Cada projeto está documentado em detalhes neste repositório.
