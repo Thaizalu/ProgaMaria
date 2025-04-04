@@ -19,6 +19,7 @@ Este curso é projetado para iniciantes em programação e análise de dados, fo
 
 - **[Analisando distribuição de raça e gênero](https://docs.google.com/spreadsheets/d/14vfPH7nQcym3A9BLMTpunOl6baYIEkQW/edit?usp=sharing&ouid=112931707989297299271&rtpof=true&sd=true):** Nessa aula aprendemos a filtrar e agrupar dados🎲 funções muito importantes para que seja possível sintetizar e entender melhor nossos dados.
 - **[Agrupamento dos dados](https://docs.google.com/spreadsheets/d/1KkDO5fzkFUGhAZfW74TND3qJNz-AmOU8OeLmVIcNORI/edit?usp=sharing):** Acesse a planilha e agrupe por estado e veja os índices médios de renda e educação. Depois faça o mesmo agrupando por região.
+- **[IF-ELSE Usando a planilha](https://docs.google.com/spreadsheets/d/14vfPH7nQcym3A9BLMTpunOl6baYIEkQW/edit?gid=772299518#gid=772299518):** Uso da condicional para saber quantas pessoas se sentem prejudicadas por causa da sua raça e cor, e quantas possuem formação em computação.
 
 ## Projetos
 
