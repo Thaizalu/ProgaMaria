@@ -31,6 +31,7 @@ O curso inclui vários projetos práticos para aplicar o conhecimento adquirido.
 
 ## Ferramentas Utilizadas
 
+- **Google Sheets:** Planilha eletrônica da Google
 - **Python:** Linguagem principal para análise e manipulação de dados.
 - **Pandas:** Biblioteca para manipulação de dados.
 - **Matplotlib e Seaborn:** Bibliotecas para visualização de dados.
